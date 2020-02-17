@@ -30,6 +30,6 @@ target/
 *.iml
 
 # intellij profile
-rc.super.iml
+rf.super.iml
 
 dependency-reduced-pom.xml
